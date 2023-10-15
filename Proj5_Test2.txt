@@ -1,0 +1,9 @@
+Hp!Dbut"!ACfbu!LV
+John,Doe,111111111,80,80,79
+Harold,Smith,222222222,77,78,99
+Patrick,Mahomes,987654321,89,89,90
+Carol,Humphrey,333333333,33,40,101
+Mark,Landis,444444444,101,49,98
+Elon,Musk,123498765,90,90,90
+Bill,Anderson,485768576,67,67,76
+Travis,Kelce,192837465,77,67,35
